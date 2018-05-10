@@ -1,48 +1,48 @@
 #EXTM3U
-#EXTINF:0,ESP | Comedy Central
+#EXTINF:1,ESP | Comedy Central
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/573/index.m3u8
-#EXTINF:0,LATIN | A&E
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16572.ts
-#EXTINF:0,LATIN | AMC
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16571.ts
-#EXTINF:0,LATIN | ANIMAL PLANET.
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16570.ts
-#EXTINF:0,LATIN | ANIME TV
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16569.ts
-#EXTINF:0,LATIN | ARTS
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16568.ts
-#EXTINF:0,LATIN | AXN
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16567.ts
-#EXTINF:0,LATIN | AZ MAS
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16566.ts
-#EXTINF:0,LATIN | AZ UNO
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16565.ts
-#EXTINF:0,LATIN | Azteca 13 (Mexico)
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16564.ts
-#EXTINF:0,LATIN | AZTECA 7
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16563.ts
-#EXTINF:0,LATIN | AZTECA CINEMA
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16562.ts
-#EXTINF:0,LATIN | AZTECA CORAZON
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16561.ts
-#EXTINF:0,LATIN | BABY TV
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16560.ts
-#EXTINF:0,LATIN | BOOMERANG
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16559.ts
-#EXTINF:0,LATIN | CANAL 11
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16558.ts
-#EXTINF:0,LATIN | CANAL 22
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16557.ts
-#EXTINF:0,LATIN | CANAL 5
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16556.ts
-#EXTINF:0,LATIN | CANAL DE LAS ESTRELLAS.
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16555.ts
-#EXTINF:0,LATIN | CARTOON NETWORK.
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16554.ts
-#EXTINF:0,LATIN | CINE LATINO
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16553.ts
-#EXTINF:0,LATIN | CINECANAL
-http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16552.ts
+#EXTINF:1,ESP | Fox Life
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/567/index.m3u8
+#EXTINF:1,ESP | Movistar Serie Xtra
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/568/index.m3u8
+#EXTINF:1,ESP | Bein La Liga
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/574/index.m3u8
+#EXTINF:1,ESP | Movistar Futbol
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/575/index.m3u8
+#EXTINF:1,ESP | Movistar Accion
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/576/index.m3u8
+#EXTINF:1,ESP | AXN
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/579/index.m3u8
+#EXTINF:1,ESP | Movistar Comedia
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/580/index.m3u8
+#EXTINF:1,ESP | La Liga TV
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/581/index.m3u8
+#EXTINF:1,ESP | Fox Life
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/601/index.m3u8
+#EXTINF:1,ESP | Disner JR
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/604/index.m3u8
+#EXTINF:1,ESP | Movistar Cine
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/607/index.m3u8
+#EXTINF:1,ESP | Fox Espana
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/608/index.m3u8
+#EXTINF:1,ESP | AMC
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/614/index.m3u8
+#EXTINF:1,ESP | Antena 3
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/615/index.m3u8
+#EXTINF:1,ESP | Telecinco
+http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/617/index.m3u8
+#EXTINF:1,LATIN | Cable Onda Sport
+http://landiptv.live:8080/live/ricardo/ricardo/77871.ts
+#EXTINF:0,LATIN | Ritmoson Latino
+http://landiptv.live:8080/live/ricardo/ricardo/68365.ts
+#EXTINF:0,LATIN | BandaMax
+http://landiptv.live:8080/live/ricardo/ricardo/68367.ts
+#EXTINF:0,LATIN | Fox Sport Premium
+http://landiptv.live:8080/live/ricardo/ricardo/68376.ts
+#EXTINF:0,LATIN | Discovery Channel
+http://landiptv.live:8080/live/ricardo/ricardo/68388.ts
+#EXTINF:0,LATIN | TDN
+http://landiptv.live:8080/live/ricardo/ricardo/68409.ts
 #EXTINF:0,LATIN | CINEMAX
 http://sunatv.co:80/live/12suna0424aa/aRpOoSTHgb/16551.ts
 #EXTINF:0,LATIN | CLARO
