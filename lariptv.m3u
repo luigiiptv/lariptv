@@ -37,8 +37,8 @@ http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/614/inde
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/615/index.m3u8
 #EXTINF:1,ESP | Telecinco
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/617/index.m3u8
-#EXTINF:1,LATIN | Sky Sport 1 HD
-http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6364.ts
+#EXTINF:1,LATIN | AMC HD
+http://mypanel.tv:8080/live/rober/12345/15677.ts
 #EXTINF:0,LATIN | Sky Sport 2 HD
 http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6363.ts
 #EXTINF:0,LATIN | AE
