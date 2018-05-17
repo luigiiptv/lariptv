@@ -41,10 +41,10 @@ http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/617/inde
 http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6364.ts
 #EXTINF:0,LATIN | Sky Sport 2 HD
 http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6363.ts
-#EXTINF:0,LATIN | BandaMax
-http://landiptv.live:8080/live/ricardo/ricardo/68367.ts
-#EXTINF:0,LATIN | Fox Sport Premium
-http://landiptv.live:8080/live/ricardo/ricardo/68376.ts
+#EXTINF:0,LATIN | AE
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/11969.ts
+#EXTINF:0,LATIN | Cartoon Network
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/11919.ts
 #EXTINF:0,LATIN | Discovery Channel
 http://landiptv.live:8080/live/ricardo/ricardo/68388.ts
 #EXTINF:0,LATIN | TDN
