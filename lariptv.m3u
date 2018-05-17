@@ -9,6 +9,8 @@ http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/568/inde
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/574/index.m3u8
 #EXTINF:1,ESP | Movistar Futbol
 http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/884.ts
+#EXTINF:1,ENG | Bein Sport
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/11313.ts
 #EXTINF:1,ESP | Bein Sport 2
 http://87.98.162.77:7080/playlist
 #EXTINF:1,ESP | Movistar Futbol
