@@ -7,8 +7,8 @@ http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/567/inde
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/568/index.m3u8
 #EXTINF:1,ESP | Bein La Liga
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/574/index.m3u8
-#EXTINF:1,ESP | Bein Sport
-http://109.201.133.83:8000/play/10081/index.m3u8
+#EXTINF:1,ESP | Movistar Futbol
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/884.ts
 #EXTINF:1,ESP | Bein Sport 2
 http://87.98.162.77:7080/playlist
 #EXTINF:1,ESP | Movistar Futbol
@@ -35,10 +35,10 @@ http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/614/inde
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/615/index.m3u8
 #EXTINF:1,ESP | Telecinco
 http://playlist.onlybest.tv/en/channel/383960d4f66e31c94f75ba41be176e9e/617/index.m3u8
-#EXTINF:1,LATIN | Cable Onda Sport
-http://landiptv.live:8080/live/ricardo/ricardo/77871.ts
-#EXTINF:0,LATIN | Ritmoson Latino
-http://landiptv.live:8080/live/ricardo/ricardo/68365.ts
+#EXTINF:1,LATIN | Sky Sport 1 HD
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6364.ts
+#EXTINF:0,LATIN | Sky Sport 2 HD
+http://iptv.oneiptv.tv:8080/live/kalbouneh2/u7eyzqoKAp/6363.ts
 #EXTINF:0,LATIN | BandaMax
 http://landiptv.live:8080/live/ricardo/ricardo/68367.ts
 #EXTINF:0,LATIN | Fox Sport Premium
